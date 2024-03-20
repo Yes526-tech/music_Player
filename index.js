@@ -15,21 +15,21 @@ const music = new Audio();
 const songs = [
     {
         path: "assets/1.mp3",
-        displayName: "1",
+        displayName: "Redrum",
         cover: "assets/1.jpeg",
-        artist: "Yunus",
+        artist: "21 Savage",
     },
     {
         path: "assets/2.mp3",
-        displayName: "2",
+        displayName: "DoomsDay 2",
         cover: "assets/2.jpeg",
-        artist: "emre",
+        artist: "Eminem",
     },
     {
         path: "assets/3.mp3",
-        displayName: "3",
+        displayName: "Popular",
         cover: "assets/3.jpeg",
-        artist: "sert",
+        artist: "The Weeknd, Madonna, Playboy Carti",
     }
 ];
 
